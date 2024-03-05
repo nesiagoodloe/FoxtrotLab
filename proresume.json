@@ -1,0 +1,47 @@
+{
+  "name": "Rodnesia Goodloe",
+  "email": "rgoodloe2@una.edu",
+  "phone": "256-394-3658",
+  "education": [
+    {
+      "degree": "Associate in Science",
+      "university": "Northwest Shoals Community College",
+      "year": "2022"
+    },
+    {
+      "degree": "Computer Information Systems",
+      "university": "University of North Alabama",
+      "Expected Graduation Date": "December 2024"
+    }
+  ],
+  "experience": [
+    {
+      "position": "IT Intern",
+      "company": "Listerhill Credit Union",
+      "duration": "October 2023 - Present",
+      "description": "Contribute to IT projects by project planning, execution, and documentation while assisting in database management and testing."
+    },
+    {
+      "position": "Student Worker",
+      "company": "Sanders College of Business and Technology",
+      "duration": "August 2022 - February 2024",
+      "description": "Providing organizational skills by handling paperwork and deliver messages while providing assistance over the phone."
+    }
+  ],
+  "skills": [
+    "Java",
+    "HTML",
+    "Python",
+    "Problem Solving",
+    "Leadership Management",
+    "Communication"
+  ],
+  "qualifications": [
+    "Secret Clearance",
+    "Computer Excellence Scholoarship Gold Recipient",
+    "National Society of Leadership and Success",
+    "University of North Alabama Honors College",
+    "Sanders COBT Diversity, Equity and Conclusion",
+    "Accelerated Masters Program"
+  ]
+}
